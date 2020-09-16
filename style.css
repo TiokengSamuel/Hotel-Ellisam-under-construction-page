@@ -93,7 +93,7 @@ body {
     color: #34af23;
 }
 
-.graphic i{
+.graphic .fa{
     transform:rotate(360deg);
 }
 
