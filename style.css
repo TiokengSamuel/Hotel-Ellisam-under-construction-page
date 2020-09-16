@@ -61,7 +61,7 @@ body {
     background: white;
     line-height: 2;
     transition: .3s ease-in;
-    border: 10px solid #ffc9ed;
+    border: 10px solid #a126003f;
 }
 
 .social-icon a:hover .fa{
