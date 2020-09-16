@@ -11,11 +11,13 @@ body {
 
 .hero-content{
     margin-bottom: 50px;
+    color: #fff;
 }
 
 .hero-title {
     letter-spacing: 1px;
     font-weight: 400;
+    color: #fff;
 }
 
 /* .img-responsive {
@@ -164,9 +166,7 @@ body {
     filter: brightness(50%);
   }
 
-.carousel {
-    background-color: #a12600 !important;
-}
+
 
 
 
