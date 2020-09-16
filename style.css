@@ -155,7 +155,7 @@ body {
     position: absolute !important;
 }
 
-.item {
+.carousel-item {
     background-size: cover;
     background-position: 50% 50%;
     width: 100%;
