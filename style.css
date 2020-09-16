@@ -87,8 +87,7 @@ body {
     background: white;
     line-height: 2;
     transition: .3s ease-in;
-    border: none;
-    box-shadow: #a12600;
+    border: #fff 10px solid;
 }
 
 
