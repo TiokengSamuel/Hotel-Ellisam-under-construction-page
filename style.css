@@ -50,7 +50,10 @@ body {
 
 .hero-body {
     margin-top: 10px;
+    letter-spacing: 0.5px;
 }
+
+
 
 .social-icon a {
     margin: 0 10px 20px 16px;
