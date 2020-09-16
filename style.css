@@ -93,13 +93,16 @@ body {
     color: #34af23;
 }
 
+.graphic .fa {
+    transform:rotate(360deg);
+}
+
 .graphic {
     display: flex;
     flex-grow: 1;
     justify-content: center;
     font-size: 150px;
     color: #a12600;
-    transform:rotate(360deg);
 }
 
 .coming-soon {
