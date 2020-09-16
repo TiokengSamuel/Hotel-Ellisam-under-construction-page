@@ -148,9 +148,8 @@ body {
 }
 
 .slider {
-    position: absolute;
+    position: absolute !important;
 }
-
 
 
 
