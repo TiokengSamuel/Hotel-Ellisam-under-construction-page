@@ -7,10 +7,13 @@
     margin-bottom: 100px;
 }
 
+.img-responsive {
+    width: auto;
+    max-height: 100%;
+}
+
 .navbar {
    border-bottom:1px solid #bebebe !important;
-    
-    
     
 }
 
