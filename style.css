@@ -72,6 +72,11 @@ body {
     border: 10px solid #a126003f;
 }
 
+.social-icon .fa:hover {
+    transition: 0.5s ease-out;
+    border
+}
+
 
 .social-icon .fa-facebook{
     color: #3b5995;
