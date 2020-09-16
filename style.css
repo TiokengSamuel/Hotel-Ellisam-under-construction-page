@@ -64,7 +64,7 @@ body {
     border: 10px solid #a126003f;
 }
 
-.social-icon a:hover .fa{
+.fa-phone, .fa-whatsapp, .fa-facebook{
     border-radius: 10px solid white;
 }
 
