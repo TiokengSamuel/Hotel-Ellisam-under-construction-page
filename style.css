@@ -68,6 +68,14 @@ body {
     border-radius: 10px solid white;
 }
 
+.news-content .fa-facebook{
+    color: #3b5995;
+}
+
+.news-content .fa-whatsapp{
+    color: #34af23;
+}
+
 
 
 
