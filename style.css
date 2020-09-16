@@ -29,11 +29,12 @@
 }
 
 .navbar-brand {
-    font-size: 2em;
+    font-size: 3em;
     font-style: bold;
     font-family: sans-serif;
     justify-content: center;
-    
+    display: flex;
+    flex-grow: 1;
 }
 
 .brand-text {
