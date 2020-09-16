@@ -37,8 +37,8 @@ body {
     font-weight: 600;
 }
 
-nav {
-    background: none;
+.navbar {
+    background: none !important;
 }
 
 .brand-text {
