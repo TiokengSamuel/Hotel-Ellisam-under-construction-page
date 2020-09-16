@@ -37,6 +37,10 @@ body {
     font-weight: 600;
 }
 
+nav {
+    background: none;
+}
+
 .brand-text {
     color: #a12600 !important;
     font-style: bold;
