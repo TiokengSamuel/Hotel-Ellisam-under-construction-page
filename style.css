@@ -7,8 +7,8 @@
     margin-bottom: 100px;
 }
 
-.nav-outline-btn {
-    border-color: #63c6ff;
+.nav {
+    background-color: #a12600;
     
 }
 
@@ -37,8 +37,8 @@
     flex-grow: 1;
 }
 
-.brand-text {
-    color: #a12600 !important;
+.brand-text {s
+    color: #fff !important;
     font-style: bold;
     justify-content: center;
 }
