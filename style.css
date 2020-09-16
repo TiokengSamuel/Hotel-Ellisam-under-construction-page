@@ -1,17 +1,15 @@
-.img {
+.img, .img-responsive {
     max-width: 100%;
-    height: auto;
+    height: 80px;
 }
 
 .hero-content{
     margin-bottom: 100px;
 }
 
-.img-responsive {
-    display: flex;
-    width: auto;
-    max-height: 100%;
-}
+/* .img-responsive {
+    
+} */
 
 .navbar {
    border-bottom:1px solid #bebebe !important;
