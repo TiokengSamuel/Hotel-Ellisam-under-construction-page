@@ -16,21 +16,6 @@
     
 }
 
-.nav-outline-btn:hover {
-    background-color: #63c6ff;
-    box-shadow: #fff;
-}
-
-.search-text {
-    color: #63c6ff;
-}
-
-
-
-.hero-outline-btn {
-    margin-left: 20px;
-    border-color: #63c6ff;;
-}
 
 .navbar-brand {
     font-size: 3em;
@@ -47,6 +32,10 @@
     font-style: bold;
     justify-content: center;
     
+}
+
+.hero {
+    height: 400px;
 }
 
 
