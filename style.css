@@ -60,7 +60,7 @@ body {
     display: inline-block;
 }
 
-.social-icon .fa:hover {
+.social-icon .fa {
     font-size:30px;
     color: #a12600;
     width: 80px;
@@ -72,7 +72,7 @@ body {
     border: 10px solid #a126003f;
 }
 
-.social-icon .fa {
+.social-icon .fa:hover {
     font-size:30px;
     width: 80px;
     height: 80px;
