@@ -93,7 +93,9 @@ body {
     color: #34af23;
 }
 
-.graphic .fa{
+.graphic i{
+
+    animation: spin 9s linear infinite;
 
         -webkit-transform: rotate(360deg);
         -moz-transform : rotate(360deg);
