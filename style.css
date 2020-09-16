@@ -74,7 +74,8 @@ body {
 
 .social-icon .fa:hover {
     transition: 0.5s ease-out;
-    border
+    border-radius: 50px;
+    border: 1px solid #000;
 }
 
 
