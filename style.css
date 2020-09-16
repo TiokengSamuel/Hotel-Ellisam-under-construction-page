@@ -39,6 +39,7 @@
 .brand-text {
     color: #a12600 !important;
     font-style: bold;
+    justify-content: center;
 }
 
 .nav-text {
