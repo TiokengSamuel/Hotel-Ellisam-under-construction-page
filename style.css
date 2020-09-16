@@ -94,12 +94,20 @@ body {
     color: #a12600;
 }
 
+.contact-us {
+    display: flex;
+    flex-grow: 1;
+}
+
 @media(max-width: 576px) {
 
     .hero {
         margin-top: 10px;
     }
-
+ 
+    .contact-us {
+        margin-top: 120px;
+    }
 }
 
 
