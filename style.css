@@ -8,7 +8,7 @@
 }
 
 .navbar {
-    border-bottom : #a12600 !important;
+   background-color : #a12600 !important;
     
     
     
@@ -40,10 +40,10 @@
 }
 
 .brand-text {
-    color: #fff !important;
+    color: #a12600 !important;
     font-style: bold;
     justify-content: center;
-    color: #a12600;
+    
 }
 
 .nav-text {
